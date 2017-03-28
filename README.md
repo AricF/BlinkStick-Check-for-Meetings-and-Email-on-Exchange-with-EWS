@@ -1,2 +1,2 @@
-# Blinklights-Check-for-meetings-and-email-on-Exchange
-Blinklight notifications on email and meeting alerts from Exchange Server using EWS.
+# BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS
+BlinkStick notifications on email and meeting alerts from Exchange Server using EWS.
