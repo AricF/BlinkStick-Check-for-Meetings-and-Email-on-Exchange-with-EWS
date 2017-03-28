@@ -75,7 +75,7 @@ namespace CheckForMeetingReminders
 
             tracingToLogFile = Convert.ToBoolean(ConfigurationManager.AppSettings["tracingToLogFile"]);
             tracingToScreen = Convert.ToBoolean(ConfigurationManager.AppSettings["tracingToScreen"]);
-
+            
             string logFileName = ConfigurationManager.AppSettings["logFileName"];
             if (string.IsNullOrEmpty(logFileName))
             {
@@ -164,6 +164,7 @@ namespace CheckForMeetingReminders
             else
             {
                 Tracing.WriteLine(true, "Could not find a Blinkstick device.");
+                Console.WriteLine("\nCould not find a Blinkstick device.\n");
                 goto Finish;  //a goto!  The world is going to end!!!
             }
 
@@ -210,6 +211,7 @@ namespace CheckForMeetingReminders
             }
 
             Tracing.WriteLine(true, "Exiting...");
+            Console.WriteLine("\nExiting...");
 
         Finish:
 
