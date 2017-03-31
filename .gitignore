@@ -91,5 +91,9 @@ x64/
 *.vssscc
 .builds
 
+*.obj
+*.dll
+*.exe
+
 # NuGet Packages Directory
 packages
