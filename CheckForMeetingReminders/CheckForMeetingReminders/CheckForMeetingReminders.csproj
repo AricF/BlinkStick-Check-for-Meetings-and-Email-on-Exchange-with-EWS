@@ -32,15 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BlinkStickDotNet">
-      <HintPath>..\Lib\BlinkStickDotNet.dll</HintPath>
-    </Reference>
-    <Reference Include="HidSharp">
-      <HintPath>..\Lib\HidSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="LibUsbDotNet">
-      <HintPath>..\Lib\LibUsbDotNet.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -59,6 +50,20 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\BlinkStickDotNet\BlinkStickDotNet.csproj">
+      <Project>{7aaebebe-e38d-47b1-a04c-a055dceb0757}</Project>
+      <Name>BlinkStickDotNet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\HidSharp\HidSharp.csproj">
+      <Project>{0db86674-2a7b-4bdc-93c1-3f7dc771426c}</Project>
+      <Name>HidSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\LibUsbDotNet.csproj">
+      <Project>{0a78f6ff-5586-4052-8104-e23ff83a7ce1}</Project>
+      <Name>LibUsbDotNet</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

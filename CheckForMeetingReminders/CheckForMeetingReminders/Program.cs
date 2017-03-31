@@ -46,9 +46,7 @@ namespace CheckForMeetingReminders
 
         public static bool tracingToScreen = false;
         public static bool tracingToLogFile = false;
-
-        //we may need to make seperate threads to control the blinking.  Still investigating the BlinkStick API
-
+        
 
         static int NumberOfUnreadItemsSinceProgramStarted = 0;
         static int NumberOfTotalEmailsSinceProgramStarted = 0;

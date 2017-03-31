@@ -46,3 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.cache
+*.dll
+CheckForMeetingReminders/CheckForMeetingReminders/bin/Debug/BlinkStickDotNet.pdb
+*.pdb
+CheckForMeetingReminders/CheckForMeetingReminders/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+*.suo
+CheckForMeetingReminders/.vs/CheckForMeetingReminders/v15/.suo
