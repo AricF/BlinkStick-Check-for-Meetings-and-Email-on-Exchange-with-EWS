@@ -1,0 +1,19 @@
+C:\Users\ZX4591\Documents\Visual Studio 2013\Projects\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+C:\Users\ZX4591\Documents\Visual Studio 2013\Projects\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+C:\Users\ZX4591\Documents\Visual Studio 2013\Projects\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+C:\Users\ZX4591\Documents\Visual Studio 2013\Projects\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+C:\Users\ZX4591\Documents\Visual Studio 2013\Projects\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.pdb
+W:\Visual Studio 2013\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+W:\Visual Studio 2013\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+W:\Visual Studio 2013\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+W:\Visual Studio 2013\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+W:\Visual Studio 2013\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.pdb
+C:\Users\zx4591\Documents\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+C:\Users\zx4591\Documents\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+C:\Users\zx4591\Documents\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+C:\Users\zx4591\Documents\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\Components\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\Components\LibWinUsb\obj\Debug\LibUsbDotNet.pdb

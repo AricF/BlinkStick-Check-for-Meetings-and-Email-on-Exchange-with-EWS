@@ -1,0 +1,12 @@
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\CheckForMeetingReminders.exe.config
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\CheckForMeetingReminders.exe
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\CheckForMeetingReminders.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\BlinkStickDotNet.dll
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\HidSharp.dll
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\LibUsbDotNet.dll
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\BlinkStickDotNet.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\HidSharp.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\bin\Debug\LibUsbDotNet.pdb
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\obj\Debug\CheckForMeetingReminders.csprojResolveAssemblyReference.cache
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\obj\Debug\CheckForMeetingReminders.exe
+C:\Users\zx4591\Documents\GitHub\BlinkStick-Check-for-Meetings-and-Email-on-Exchange-with-EWS\CheckForMeetingReminders\CheckForMeetingReminders\obj\Debug\CheckForMeetingReminders.pdb
