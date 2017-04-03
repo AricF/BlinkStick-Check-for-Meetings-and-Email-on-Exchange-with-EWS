@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForMeetingReminders", "CheckForMeetingReminders\CheckForMeetingReminders.csproj", "{A793A014-44ED-406A-AC26-859445280781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibUsbDotNet", "..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\LibWinUsb\LibUsbDotNet.csproj", "{0A78F6FF-5586-4052-8104-E23FF83A7CE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components\LibWinUsb\LibUsbDotNet.csproj", "{0A78F6FF-5586-4052-8104-E23FF83A7CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidSharp", "..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\Components\HidSharp\HidSharp.csproj", "{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidSharp", "Components\HidSharp\HidSharp.csproj", "{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlinkStickDotNet", "..\..\..\Visual Studio 2017\Projects\CheckForMeetingReminders\BlinkStickDotNet\BlinkStickDotNet.csproj", "{7AAEBEBE-E38D-47B1-A04C-A055DCEB0757}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlinkStickDotNet", "BlinkStickDotNet\BlinkStickDotNet.csproj", "{7AAEBEBE-E38D-47B1-A04C-A055DCEB0757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
