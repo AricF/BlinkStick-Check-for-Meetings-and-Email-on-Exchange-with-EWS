@@ -97,3 +97,5 @@ x64/
 
 # NuGet Packages Directory
 packages
+*.exe
+CheckForMeetingReminders/CheckForMeetingReminders/obj/Debug/CheckForMeetingReminders.csproj.FileListAbsolute.txt
