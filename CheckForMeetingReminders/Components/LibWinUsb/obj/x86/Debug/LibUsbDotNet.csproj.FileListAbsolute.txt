@@ -1,5 +1,0 @@
-C:\Users\ZX4591\Downloads\BlinkStickDotNet-master\BlinkStickDotNet-master\Components\LibWinUsb\bin\x86\Debug\LibUsbDotNet.dll
-C:\Users\ZX4591\Downloads\BlinkStickDotNet-master\BlinkStickDotNet-master\Components\LibWinUsb\bin\x86\Debug\LibUsbDotNet.pdb
-C:\Users\ZX4591\Downloads\BlinkStickDotNet-master\BlinkStickDotNet-master\Components\LibWinUsb\obj\x86\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
-C:\Users\ZX4591\Downloads\BlinkStickDotNet-master\BlinkStickDotNet-master\Components\LibWinUsb\obj\x86\Debug\LibUsbDotNet.dll
-C:\Users\ZX4591\Downloads\BlinkStickDotNet-master\BlinkStickDotNet-master\Components\LibWinUsb\obj\x86\Debug\LibUsbDotNet.pdb
