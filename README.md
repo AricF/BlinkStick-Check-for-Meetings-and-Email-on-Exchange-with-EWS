@@ -26,7 +26,7 @@ This was tested against a BlinkStick Nano in a Belkin powered USB hub. https://w
 This is compatible with Exchange 2007 SP1 and higher.  I purposely did not use newer calls for compatibility with older Exchange servers.
 
 
-### Known Issues:
+### Known Issues
 I have worked to make sure this works in Mono and not just native .NET on Windows.  However at the end of running it doesn't seem to nicely close down all the threads created in some of the supporting USB libraries and you may have to manually kill the console session.  If you know how to get that to work in Mono, I'd love to hear it.  
 
 ### Comment about R Command:
