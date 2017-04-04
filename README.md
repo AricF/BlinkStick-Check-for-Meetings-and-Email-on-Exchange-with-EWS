@@ -2,7 +2,7 @@
 
 BlinkStick notifications on email and meeting alerts from Exchange Server using EWS.
 
-###Description
+######Description
 This is a small console app that uses Exchange Web Services (EWS) to check for upcoming meetings and new email messages.
 
 ###Configuration
