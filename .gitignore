@@ -99,3 +99,13 @@ x64/
 packages
 *.exe
 CheckForMeetingReminders/CheckForMeetingReminders/obj/Debug/CheckForMeetingReminders.csproj.FileListAbsolute.txt
+
+*.exe
+
+CheckForMeetingReminders/CheckForMeetingReminders/obj/Debug/CheckForMeetingReminders.csproj.FileListAbsolute.txt
+
+CheckForMeetingReminders/Components/HidSharp/obj/Debug/HidSharp.csproj.FileListAbsolute.txt
+
+CheckForMeetingReminders/Components/LibWinUsb/obj/Debug/LibUsbDotNet.csproj.FileListAbsolute.txt
+
+CheckForMeetingReminders/CheckForMeetingReminders.userprefs
