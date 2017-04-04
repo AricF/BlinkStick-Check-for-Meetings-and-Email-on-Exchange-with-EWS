@@ -2,10 +2,10 @@
 
 BlinkStick notifications on email and meeting alerts from Exchange Server using EWS.
 
-######Description
+###### Description
 This is a small console app that uses Exchange Web Services (EWS) to check for upcoming meetings and new email messages.
 
-###Configuration
+### Configuration
 Most of the configuration is done in the app.config file.  If you don't specify a username or password in that file it will ask you for them on launch.  You _**will need**_ to specify the url for the EWS for your installation of Exchange Server in the app.config.  For security reasons you may not want to save your password in the app.config file.
 
 ###Dependencies (already included in this repository)
