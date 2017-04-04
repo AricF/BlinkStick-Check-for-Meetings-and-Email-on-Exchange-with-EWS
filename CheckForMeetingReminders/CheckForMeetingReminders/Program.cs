@@ -38,6 +38,10 @@ namespace CheckForMeetingReminders
         //this logic can start to fall apart as the user reads/deletes previously unread emails.
         static bool firstTimeCheck = true;
 
+		//setup threads used to animate the Blinkstick
+		static System.Threading.Thread threadForBlinking = new System.Threading.Thread(new System.Threading.ThreadStart(AnimationForAll));
+
+
 
 
         //timers, like fezzes, are cool
@@ -178,9 +182,7 @@ namespace CheckForMeetingReminders
             timerForUpdatingTheDisplay.Elapsed += new System.Timers.ElapsedEventHandler(DisplayTimerElapsed);
             timerForUpdatingTheDisplay.Enabled = true;
 
-            //setup threads used to animate the Blinkstick
-            System.Threading.Thread threadForBlinking = new System.Threading.Thread(new System.Threading.ThreadStart(AnimationForAll));
-
+            
 
             threadForBlinking.IsBackground = true;
 
@@ -219,6 +221,11 @@ namespace CheckForMeetingReminders
                 Console.WriteLine("Press any key to exit: ");
                 Console.ReadKey();
             }
+
+			//Doesn't exit properly in Mono.  The HidSharp thread keeps running
+			//I've tried the lines below but they don't work.
+			//threadForBlinking.Abort();
+			//System.Environment.Exit(0);
 
         }
         
