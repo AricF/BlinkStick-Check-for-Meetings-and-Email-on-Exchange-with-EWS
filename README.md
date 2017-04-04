@@ -9,6 +9,7 @@ This is dependent on 3 other projects I checked in so you can start running imme
 1.  LibUsbDotNet
 2.  HidSharp
 3.  BlinkStickDotNet
+
 I did this to follow arvydas' example in this project: https://github.com/arvydas/BlinkStickDotNet/tree/master/BlinkStickDotNet. By doing this it makes it easier for someone using Mono to simply grab the project and run.
 
 When the console app is running, pressing R (see comment below) will reset the new email count.  Pressing Esc will exit the app.
